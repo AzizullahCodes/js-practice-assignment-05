@@ -232,5 +232,14 @@
                                                 // if (age >= 18) {console.log('You are eligible for voting');}
                                                 // else{console.log('Your age is less than requiring age for voting, you are not eligible for voting');}
 
-                                                // -------------- mini-practice-project for logic building-21 (java script daily practice)-------------
-                                                
+// -------------- mini-practice-project for logic building-24 (!= practice)-------------
+        //  var myName = prompt('Enter my name');
+        //  var name = 'Aziz';
+        //  if (myName !== name){console.log('Enter my correct name');}
+        //  else {console.log('you entered my correct name');}
+
+// -------------- mini-practice-project for logic building-25 (java script daily practice)------------- 
+var number = prompt('Enter my favourite number');
+var myFavouriteNumber = 666;
+if (number != myFavouriteNumber) {console.log('Your answer is correct');}
+else {console.log('Your answer is wrong');}
