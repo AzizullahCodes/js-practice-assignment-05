@@ -130,39 +130,107 @@
 // var  number2  = prompt('Enter second number');
 //  var remainder = number % number2;
 //  console.log(remainder);
-// ------------------ mini-practice  project-15 -------------------------- 
+// ------------------ mini-practice  project-15 (even or odd number) -------------------------- 
         // var number = prompt('Enter any number');
         // var output = number % 2;
         // console.log(output);
         // if (output === 0){console.log(number + ' is an even number');}
         // else{console.log(number + ' is not an even number but odd number');}
 
-// ------------------ mini-practice of(==) project-01 -------------------------- 
+// ------------------ mini-practice of project-16 (calculator) -------------------------- 
+        // var number1 = +prompt('Ente first number');
+        // var number2 = +prompt('Enter second number');
+        // var operator = prompt('Enter any operator(*,+,- or /)');
 
+        // if (operator == '+'){ var total = number1 + number2;
+        //         console.log(total)
+        // }
+        // if(operator == '-'){var total = number1 - number2;
+        //         console.log(total);
+        // }
+        // if (operator == '/') { var total = number1 / number2;
+        //         console.log(total);
+        // }
+        // if (operator == '*') {var total = number1 * number2;
+        //         console.log(total);
+        // } 
+        // else{console.log('Enter an operator');}
+// ------------------ mini-practice project-17(weather outfit suggestion app) -------------------------- 
+        // var temperature = prompt('Enter temperature');
+        // if ( temperature < 30) {console.log('Temperature is low plz wear warm clothes');}
+        // else{console.log('Temperature is high plaz donot go outside home');}
+// ------------------ mini-practice project-18 (Grade checker) -------------------------- 
+        // var marks = prompt('Enter your marks');
+        // var totalMarks = 100;
+        // if (marks >= 90){console.log('You got Grade A+');
+        // }
+        // else if (marks >= 80) {console.log('Your got Grade A');}
+        // else if  (marks >= 70) {console.log('You got Grade B');}
+        // else if  (marks >= 60) {console.log('You got grade C');}
+        // else if (marks >= 50) {console.log('You got Grade D');}
+        // else if (marks >= 40) {console.log('You are passed');}
+        // else{console.log('You are failed');}
 
+// ------------------ mini-practice project-19 (Age group classifier) -------------------------- 
+        // var age = +prompt('Enter age');
+        // if(age >= 60) {console.log('Yor are an old man');}
+        // else if (age >= 50) {console.log('Your journey is started toward old man');}
+        // else if ( age >= 40) {console.log('You have passed the golden time of your life but still you are young');}
+        // else if ( age >= 20) {console.log('You are in golden period of your life');}
+        // else{console.log('You are children');}
 
+// ------------------ mini-practice project-20 (Simple login system) -------------------------- 
+        // var userName = prompt('Enter user name');
+        // var password = +prompt('Enter password');
+        // var myName = "Aziz";
+        // var myPassword = 9876;
+        // if (userName === myName && password === myPassword) {console.log('you entered correct username and password & welcome you can login');}
+        // else{console.log('You have no any information about my password');}
 
-// ------------------ mini-practice of(==) project-01 -------------------------- 
+// ------------------ mini-practice project-20 (traffic signal related) -------------------------- 
+        // var traffic_light = prompt('Enter color of traffic light signal(green,red,yellow or any other)')
+        // var  stop = 'red';
+        // var  start_vehicel = 'yellow';
+        // var  drive    = 'green';
+        // if (traffic_light === stop){console.log('Stop Do not cross road');}
+        // else if (traffic_light === start_vehicel) {console.log('Start your vehicle and keep you feet on break');}
+        // else if( traffic_light === drive) {console.log('drive and cross road');}
+        // else{console.log('i think yor are pakistani,but keep in mind, be ready for challan, police sargant will receive you!');}
 
+// -------------- mini-practice-project for logic building-21 (java script daily practice)-------------
+        // var practice_hours = prompt('Enter your javascript daily practice hours like(1,2,7 etc)');
+        // if (practice_hours >= 12){console.log('Congratulation, InshaaAllah you will become javascript expert,be consistence');}
+        // else if (practice_hours >= 6) {console.log('You also get success but i think you are spending less time on javascript practicing');}
+        // else if (practice_hours >= 2) {console.log('Your success chances are 40%');}
+        // else {console.log('I think you are wasting your time');}
+        // -------------- mini-practice-project for logic building-22 (suggestion of vehicle for travelling)----------------------
+        // var numberOfPeople = prompt('Enter number of people those are going to Lahore like(1,10,40)');
+        // if (numberOfPeople <= 4) {console.log('You should go by car');}
+        // else if (numberOfPeople <= 12) {console.log('You should go by Hiace');}
+        // else {console.log('You should go by Bus');}
 
+        // -------------- mini-practice-project for logic building-22 (calculator)------------- 
+        //  var number1 = +prompt('Enter first number');
+        //  var number2 = +prompt('Enter second number');
+        //  var operator = prompt('Enter an operator like(*,/,- or +)');
+        //  if (operator === '*') {var total = number1 + number2;
+        //         console.log(total);
+        //  }
+        //   else if (operator === '/') { var total = number1 / number2;
+        //         console.log(total);
+        //  }
+        //   else if (operator === '+') { var total = number1 + number2;
+        //         console.log(total);
+        //  }
+        //  else if (operator === '-') {var total = number1 - number2;
+        //         console.log(total);
 
+        //  }
+        //  else{console.log('choose an appropriate oprator');}
+        // -------------- mini-practice-project for logic building-23 (Voting Eligibility Checker)------------- 
+                                                // var age = prompt('Enter your age');
+                                                // if (age >= 18) {console.log('You are eligible for voting');}
+                                                // else{console.log('Your age is less than requiring age for voting, you are not eligible for voting');}
 
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
+                                                // -------------- mini-practice-project for logic building-21 (java script daily practice)-------------
+                                                
