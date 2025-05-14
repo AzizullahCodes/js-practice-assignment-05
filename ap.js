@@ -239,7 +239,7 @@
         //  else {console.log('you entered my correct name');}
 
 // -------------- mini-practice-project for logic building-25 (java script daily practice)------------- 
-var number = prompt('Enter my favourite number');
-var myFavouriteNumber = 666;
-if (number != myFavouriteNumber) {console.log('Your answer is correct');}
-else {console.log('Your answer is wrong');}
+// var number = prompt('Enter my favourite number');
+// var myFavouriteNumber = 666;
+// if (number != myFavouriteNumber) {console.log('Your answer is correct');}
+// else {console.log('Your answer is wrong');}
