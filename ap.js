@@ -85,37 +85,57 @@
 // if user enter number 20 or less than 20 console replies true, if user enter number greater than 
 //  20 conosle replies false;
 
-// ------------------ mini-practice of(==) project-01 -------------------------- 
+// ------------------ mini-practice of(if statement) project-09 -------------------------- 
+        // var color = prompt('Enter your favourite color');
+        // var colorName = 'red';
+        // if (color == colorName){console.log('Your answer is good');}
+// you see that when user enter color red console shows, your answer is good 
+// but when user enters green than console does not tell us any thing why----! 
+//  we see it in next project
+
+// ------------------ mini-practice of(if) projec- 10 -------------------------- 
+//  var color = prompt('Enter your favourite color');
+//  var colorName = 'red';
+//  if (color === colorName) {console.log('Your answer is good');}
+//  if (color !== colorName){console.log('your answer is wrong');}
+//  we here applied two time if we can apply else in place of second if 
+//  we see it in next project
+
+// ------------------ mini-practice of(else) project-11 -------------------------- 
+        // var color = prompt('Enter your favourite color');
+        // var colorName = 'red';
+        // if(color === colorName){console.log('Your answer is correct');}
+        // else{console.log('your answer is not correct');}
+// Now we clear our concept about else if in next pronject
+
+// ------------------ mini-practice of(else if) project-12 -------------------------- 
+    // var hobby = prompt('Enter your hobby');
+    // var myHobby = 'coding';
+    // if (hobby === myHobby) {console.log(myHobby + ' is my hobby');}
+    // else if (hobby === 'book-reading'){console.log(hobby + ' is also my second hobby');}
+    // else{console.log('you donot have knowledge about my hobby');}
 
 
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
-// ------------------ mini-practice of(==) project-01 -------------------------- 
-
-
-
+// ------------------ mini-practice project-13 (even or odd) -------------------------- 
+        //  var number =  +prompt('Enter any number');
+        //  var divider = 2; 
+        // result = number % divider;
+        //  remainder = result / 2;
+        //  var temp = 0;
+        //  if (remainder === temp){console.log('number is even');}
+        //  else{console.log('number is  odd');}
+//    it logic work but we apply an another logic in project 15
+// ------------------ mini-practice project-14 (remainder) -------------------------- 
+// var number = prompt('Enter any number');
+// var  number2  = prompt('Enter second number');
+//  var remainder = number % number2;
+//  console.log(remainder);
+// ------------------ mini-practice  project-15 -------------------------- 
+        // var number = prompt('Enter any number');
+        // var output = number % 2;
+        // console.log(output);
+        // if (output === 0){console.log(number + ' is an even number');}
+        // else{console.log(number + ' is not an even number but odd number');}
 
 // ------------------ mini-practice of(==) project-01 -------------------------- 
 
