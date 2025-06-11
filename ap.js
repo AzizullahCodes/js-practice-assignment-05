@@ -188,14 +188,14 @@
         // else{console.log('You have no any information about my password');}
 
 // ------------------ mini-practice project-20 (traffic signal related) -------------------------- 
-        // var traffic_light = prompt('Enter color of traffic light signal(green,red,yellow or any other)')
-        // var  stop = 'red';
-        // var  start_vehicel = 'yellow';
-        // var  drive    = 'green';
-        // if (traffic_light === stop){console.log('Stop Do not cross road');}
-        // else if (traffic_light === start_vehicel) {console.log('Start your vehicle and keep you feet on break');}
-        // else if( traffic_light === drive) {console.log('drive and cross road');}
-        // else{console.log('i think yor are pakistani,but keep in mind, be ready for challan, police sargant will receive you!');}
+         var traffic_light = prompt('Enter color of traffic light signal(green,red,yellow or any other)')
+         var  stop = 'red';
+         var  start_vehicel = 'yellow';
+         var  drive    = 'green';
+         if (traffic_light === stop){console.log('Stop Do not cross road');}
+         else if (traffic_light === start_vehicel) {console.log('Start your vehicle and keep you feet on break');}
+         else if( traffic_light === drive) {console.log('drive and cross road');}
+         else{console.log('i think yor are pakistani,but keep in mind, be ready for challan, police sargant will receive you!');}
 
 // -------------- mini-practice-project for logic building-21 (java script daily practice)-------------
         // var practice_hours = prompt('Enter your javascript daily practice hours like(1,2,7 etc)');
